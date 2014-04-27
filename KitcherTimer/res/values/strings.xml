@@ -4,5 +4,6 @@
     <string name="app_name">KitcherTimer</string>
     <string name="dummy_button">Ryan Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="search_text">Search</string>   
 
 </resources>
