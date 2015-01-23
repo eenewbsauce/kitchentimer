@@ -24,6 +24,7 @@ public class FullscreenActivity extends ActionBarActivity  {
 	    // Inflate the menu items for use in the action bar
 	    MenuInflater inflater = getMenuInflater();
 	    inflater.inflate(R.menu.main, menu);
+		System.out.println("Hello, World!");
 	    return super.onCreateOptionsMenu(menu);
 	}
     /**
